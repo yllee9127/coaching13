@@ -5,4 +5,7 @@ def goodbye():
  print("Goodbye")
 
 def goodbye1():
- print("Goodbye")
+ print("Goodbye 1")
+
+def goodbye2():
+ print("Goodbye 2")
